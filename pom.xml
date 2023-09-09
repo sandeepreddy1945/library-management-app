@@ -11,8 +11,17 @@
 	<groupId>io.github.librarymanagement</groupId>
 	<artifactId>library-management-app</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>pom</packaging>
 	<name>library-management-app</name>
 	<description>Spring Backend Application for a Library Management Project</description>
+	<modules>
+		<module>library-management-core</module>
+		<module>library-management-api</module>
+		<module>library-management-boot</module>
+		<module>library-management-model</module>
+		<module>library-management-ws</module>
+		<module>library-management-pipe</module>
+	</modules>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
