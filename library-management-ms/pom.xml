@@ -9,20 +9,12 @@
         <version>0.0.1-SNAPSHOT</version>
     </parent>
 
-    <artifactId>library-management-api</artifactId>
+    <artifactId>library-management-ms</artifactId>
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
         <maven.compiler.target>17</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
-
-    <dependencies>
-        <dependency>
-            <groupId>com.aaptha.library.management</groupId>
-            <artifactId>library-management-rest-contract</artifactId>
-            <version>1.0.1</version>
-        </dependency>
-    </dependencies>
 
 </project>
