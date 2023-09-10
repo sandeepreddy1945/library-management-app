@@ -19,10 +19,18 @@
 
     <dependencies>
         <dependency>
-            <groupId>io.github.sandeepreddy1945</groupId>
+            <groupId>com.aaptha.library.management</groupId>
             <artifactId>library-management-rest-contract</artifactId>
-            <version>1.0</version>
+            <version>1.0.1</version>
         </dependency>
     </dependencies>
 
+    <repositories>
+        <repository>
+            <id>github</id>
+            <name>GitHub Packages</name>
+            <url>https://maven.pkg.github.com/sandeepreddy1945/*</url>
+            <layout>default</layout>
+        </repository>
+    </repositories>
 </project>
