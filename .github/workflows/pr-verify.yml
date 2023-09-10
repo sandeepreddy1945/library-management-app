@@ -26,9 +26,9 @@ jobs:
       with:
         java-version: '17'
         distribution: 'temurin'
-        cache: maven
+#        cache: maven
     - name: Build with Maven
-      run: mvn -B package --file pom.xml
+      run: mvn -B clean package --file pom.xml -X
 #      env:
 #        GITHUB_TOKEN: ${{secrets.ACCESS_TOKEN}}
 
