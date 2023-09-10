@@ -19,9 +19,9 @@
 
     <dependencies>
         <dependency>
-            <groupId>com.aaptha.library.management</groupId>
+            <groupId>io.github.sandeepreddy1945</groupId>
             <artifactId>library-management-rest-contract</artifactId>
-            <version>1.0.1</version>
+            <version>1.0</version>
         </dependency>
     </dependencies>
 
