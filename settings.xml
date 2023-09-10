@@ -1,13 +1,13 @@
-<settings xmlns="http://maven.apache.org/SETTINGS/1.0.0"
-          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-          xsi:schemaLocation="http://maven.apache.org/SETTINGS/1.0.0
-                      http://maven.apache.org/xsd/settings-1.0.0.xsd">
-    <servers>
-        <server>
-            <id>github</id>
-            <username>sandeepreddy1945</username>
-            <!-- Read Packages Only Config -->
-            <password>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</password>
-        </server>
-    </servers>
-</settings>
+<!--<settings xmlns="http://maven.apache.org/SETTINGS/1.0.0"-->
+<!--          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"-->
+<!--          xsi:schemaLocation="http://maven.apache.org/SETTINGS/1.0.0-->
+<!--                      http://maven.apache.org/xsd/settings-1.0.0.xsd">-->
+<!--    <servers>-->
+<!--        <server>-->
+<!--            <id>github</id>-->
+<!--            <username>sandeepreddy1945</username>-->
+<!--            &lt;!&ndash; Read Packages Only Config &ndash;&gt;-->
+<!--            <password>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</password>-->
+<!--        </server>-->
+<!--    </servers>-->
+<!--</settings>-->
